@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "cmake.ignoreCMakeListsMissing": true,
+    "dart.flutterSdkPath": "~/flutter"
+}

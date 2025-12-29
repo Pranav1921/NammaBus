@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "511917495469",
+    "firebase_url": "https://bustracking-app-f150d-default-rtdb.firebaseio.com",
+    "project_id": "bustracking-app-f150d",
+    "storage_bucket": "bustracking-app-f150d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511917495469:android:d5e423bf69698e33a16224",
+        "android_client_info": {
+          "package_name": "com.example.bus_tracker_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj75I71XWSqMn5dgUUJ2whkBoXT_kx5EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511917495469:android:97494d2ff3ec0a9da16224",
+        "android_client_info": {
+          "package_name": "com.pranav.bus_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj75I71XWSqMn5dgUUJ2whkBoXT_kx5EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511917495469:android:4a28e9ce047ede68a16224",
+        "android_client_info": {
+          "package_name": "com.pranav.bus_tracker_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj75I71XWSqMn5dgUUJ2whkBoXT_kx5EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
